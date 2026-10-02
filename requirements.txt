@@ -1,5 +1,5 @@
 requests[socks]>=2.28.0
-beautifulsoup4>=4.11.0
+beautifulsoup4>=4.14.3
 python-dotenv>=1.0.0
 stem>=1.8.0
 # optional — only needed for MCP server mode (python3 sicry.py serve)
